@@ -55,7 +55,7 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- GPT
+- GPT from OpenAI
 - Pinecone
 
 
